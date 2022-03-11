@@ -20,7 +20,7 @@ function About() {
         GitHub Profile
         </a>
         <br />
-        <a className='text-white text-lg' href='https://github.com/jyazdan'>
+        <a className='text-white text-lg' href='https://github.com/jyazdan/github-finder'>
         GitHub Finder Repository
         </a>
         <br />
